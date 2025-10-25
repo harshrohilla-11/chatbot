@@ -25,5 +25,5 @@ e = Entry(root, width=80)
 send = Button(root, text='Send', bg='deeppink', fg='white',
               width=20, command=send).grid(row=1, column=1)
 e.grid(row=1, column=0)
-root.title('sharmamohit124507@gmail.com')
+root.title('harshrohilla071@gmail.com')
 root.mainloop()
